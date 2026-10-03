@@ -1,0 +1,5 @@
+streamlit
+pypdf
+langchain-core
+langchain-google-genai
+pydantic
